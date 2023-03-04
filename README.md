@@ -1,15 +1,9 @@
-<img 
-   align="right" 
-   alt="Most Used Languages"
-   style="pointer-events:none;" 
-   src="https://github-readme-stats.vercel.app/api/top-langs/?username=YkDeng200929&hide_border=true&langs_count=5&show_icons=true&theme=nord&hide_title=false&layout=compact" 
-/>
----
-### My Project:
-1. *[英译英电子词典](https://github.com/YkDeng200929/My_Projects)*
-2. *[双人离线五子棋游戏](https://github.com/YkDeng200929/My_Projects)*
-3. *[QT云音乐播放器](https://github.com/YkDeng200929/Qt_Projects)*
-### ![My Skills](https://skillicons.dev/icons?i=c,cpp,qt,linux,vscode,vim,md)
+### My Most Used Languages:
+### ![Most Used_Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YkDeng200929&hide_border=true&langs_count=5&show_icons=true&theme=nord&hide_title=true&layout=compact) 
+### My Skills:
+### ![My Skills](https://skillicons.dev/icons?i=c,cpp,qt,linux,vscode,vim,md) 
+### Projects:
+### [![MyProject](https://github-readme-stats.vercel.app/api/pin/?username=YkDeng200929&repo=My_Projects&theme=nord&hide_border=true)](https://github.com/YkDeng200929/My_Projects) [![QT_Project](https://github-readme-stats.vercel.app/api/pin/?username=YkDeng200929&repo=Qt_Projects&theme=nord&hide_border=true)](https://github.com/YkDeng200929/Qt_Projects)
 ### Monthly Coding Time:
 <!--START_SECTION:waka-->
 
