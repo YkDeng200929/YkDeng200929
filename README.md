@@ -16,6 +16,11 @@
 3. *[QT Cloud Music Player📀(云音乐播放器)](https://github.com/YkDeng200929/Qt_Projects)*
 ### [Coding Time (30days)](https://github.com/muety/wakapi)
 <!--START_SECTION:waka-->
+
+```text
+Markdown   0 hrs 6 mins    🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩   100.00 %
+```
+
 <!--END_SECTION:waka-->
 
 <!--
