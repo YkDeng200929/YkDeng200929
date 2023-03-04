@@ -1,20 +1,15 @@
 <img 
    align="right" 
    style="pointer-events:none;" 
-   src="https://github-readme-stats.vercel.app/api/top-langs/?username=YkDeng200929&layout=compact&hide_border=false&langs_count=10&show_icons=true&theme=cobalt&hide_title=false&hide_border=false" 
+   src="https://github-readme-stats.vercel.app/api/top-langs/?username=YkDeng200929&layout=compact&hide_border=true&langs_count=10&show_icons=true&theme=cobalt&hide_title=false&background_color=black" 
 />
 
-### Hello !
-- 👨‍💻 I’m currently learning Embedded Software Development && Driver
-- 🧰 Use C/C++ in Linux/Windows
-- 📚 Good Good study, Day Day up.
-### My Skills:
-### ![My Skills](https://skillicons.dev/icons?i=c,cpp,qt,linux,vscode,vim,md)
 ### My Project:
-1. *[English Dict🔍(英译英电子词典)](https://github.com/YkDeng200929/My_Projects)*
-2. *[Go💡(双人离线五子棋游戏)](https://github.com/YkDeng200929/My_Projects)*
-3. *[QT Cloud Music Player📀(云音乐播放器)](https://github.com/YkDeng200929/Qt_Projects)*
-### [Coding Time (30days)](https://github.com/muety/wakapi)
+1. *[英译英电子词典](https://github.com/YkDeng200929/My_Projects)*
+2. *[双人离线五子棋游戏](https://github.com/YkDeng200929/My_Projects)*
+3. *[QT云音乐播放器](https://github.com/YkDeng200929/Qt_Projects)*
+### ![My Skills](https://skillicons.dev/icons?i=c,cpp,qt,linux,vscode,vim,md)
+### Monthly Coding Time:
 <!--START_SECTION:waka-->
 
 ```text
