@@ -2,7 +2,7 @@
    align="right" 
    alt="Most Used Languages"
    style="pointer-events:none;" 
-   src="https://github-readme-stats.vercel.app/api/top-langs/?username=YkDeng200929&hide_border=true&langs_count=5&show_icons=true&theme=cobalt&hide_title=false" 
+   src="https://github-readme-stats.vercel.app/api/top-langs/?username=YkDeng200929&hide_border=true&langs_count=5&show_icons=true&theme=nord&hide_title=false&layout=compact" 
 />
 ### My Project:
 1. *[英译英电子词典](https://github.com/YkDeng200929/My_Projects)*
