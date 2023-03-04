@@ -9,7 +9,7 @@
 - 🧰 Use C/C++ in Linux/Windows
 - 📚 Good Good study, Day Day up.
 ### My Skills:
-### ![My Skills](https://skillicons.dev/icons?i=c,cpp,qt,linux,vscode,vim)
+### ![My Skills](https://skillicons.dev/icons?i=c,cpp,qt,linux,vscode,vim,md)
 ### My Project:
 1. *[English Dict🔍(英译英电子词典)](https://github.com/YkDeng200929/My_Projects)*
 2. *[Go💡(双人离线五子棋游戏)](https://github.com/YkDeng200929/My_Projects)*
