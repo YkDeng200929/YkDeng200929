@@ -5,15 +5,15 @@
 />
 
 ### Hello !
-- ????? I’m currently learning Embedded Software Development && Driver
-- ?? Use C/C++ in Linux/Windows
-- ?? Good Good study, Day Day up.
+- 👨‍💻 I’m currently learning Embedded Software Development && Driver
+- 🧰 Use C/C++ in Linux/Windows
+- 📚 Good Good study, Day Day up.
 ### My Skills:
 ### ![My Skills](https://skillicons.dev/icons?i=c,cpp,qt,linux,vscode,vim)
 ### My Project:
-1. *[English Dict??(英译英电子词典)](https://github.com/YkDeng200929/My_Projects)*
-2. *[Go??(双人离线五子棋游戏)](https://github.com/YkDeng200929/My_Projects)*
-3. *[QT Cloud Music Player??(云音乐播放器)](https://github.com/YkDeng200929/Qt_Projects)*
+1. *[English Dict🔍(英译英电子词典)](https://github.com/YkDeng200929/My_Projects)*
+2. *[Go💡(双人离线五子棋游戏)](https://github.com/YkDeng200929/My_Projects)*
+3. *[QT Cloud Music Player📀(云音乐播放器)](https://github.com/YkDeng200929/Qt_Projects)*
 ### [Coding Time (30days)](https://github.com/muety/wakapi)
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
