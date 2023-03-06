@@ -10,7 +10,7 @@
 2. *[双人离线五子棋游戏](https://github.com/YkDeng200929/My_Projects)*
 3. *[QT云音乐播放器](https://github.com/YkDeng200929/Qt_Projects)*
 ### ![My Skills](https://skillicons.dev/icons?i=c,cpp,qt,linux,vscode,vim,md)
-### Monthly Coding Time:
+### Monthly Coding Time In VS_Code:
 <!--START_SECTION:waka-->
 
 ```text
